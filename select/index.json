@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cry High Fly",
+  "base_artist": "aiko",
+  "createdAt": "2026-01-14T02:15:23.843004Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry High Fly",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_High_Fly_aiko.txt"
+    }
+  ]
+}
